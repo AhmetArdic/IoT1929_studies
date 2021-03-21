@@ -9,7 +9,7 @@
 #define WIFI_SSID "LelloisPerfect"
 #define WIFI_PASSWORD "deneme123456"
 #define FIREBASE_HOST "rfid-8b5ed-default-rtdb.firebaseio.com"
-#define FIREBASE_AUTH "J1HZMVI9m1VSAVON2XdvEludJhISW3fgrq1mdulm"
+#define FIREBASE_AUTH "bu_kismi_bilerek_koymadim" //githuba atarken kaldirdim
 
 #define RST_PIN D1
 #define SS_PIN D2
